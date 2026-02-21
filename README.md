@@ -2,7 +2,7 @@
 
 ## Professional Summary 📊💼
 
-Versatile Data Analyst and Software Engineer with expertise in Python, Java, and Spring Boot, specializing in the mining industry. Skilled in developing robust data solutions, creating efficient ETL processes, and building data visualization tools for complex industrial operations. Experienced in remote work environments, with a strong foundation in cloud services and modern development practices. Proven ability to lead teams and improve operational efficiency through innovative software solutions in high-stakes environments.
+Versatile Software Engineer and Data Scientist with 3+ years of experience leveraging Python (Pandas, NumPy), Power BI, and the Microsoft Power Platform to build data-driven applications and automation solutions. Proficient in analyzing functional requirements, developing ETL pipelines, and translating complex datasets into actionable business insights. Proven ability to communicate effectively with high-level stakeholders to define project scope and deliver impactful results. AWS-certified with hands-on experience in cloud architecture, machine learning, and full-stack development.
 
 ## Technical Skills 🛠️
 
