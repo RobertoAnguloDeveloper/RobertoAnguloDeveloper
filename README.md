@@ -10,7 +10,7 @@ Versatile Data Analyst and Software Engineer with expertise in Python, Java, and
 - **Backend Frameworks**: 🍃 Spring Boot (v3), 🌶️ Flask (v3), 🏗️ Laravel (v9)
 - **Frontend Frameworks**: ⚛️ React.js (v19), 🅱️ Bootstrap (v5), 📱 Flutter (v3), 🎭 jQuery (v3)
 - **Mobile Development**: 🤖 Android (Hedgehog), 📱 Flutter (v3)
-- **Cloud Services**: ☁️ AWS (Certified)
+- **Cloud Services**: ☁️ AWS (Certified), ✅ Supabase, ▲ Vercel, ☁ Hostinger
 - **Database**: 🗃️ SQL, 🔗 JPA (ORM)
 - **Data Analysis**: 📊 Power BI, 🔍 Power Query, 📈 DAX formulas, 📉 Advanced Excel
 - **DevOps & Tools**: 🌿 Git, 📬 Postman, 🎟️ Jira, 🔧 Microsoft Power Platform, 📅 Office 365 (Admin)
